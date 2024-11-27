@@ -29,3 +29,9 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
         target="_blank" alt="Email"></a>
   </div>
 </div>
+
+### My Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
