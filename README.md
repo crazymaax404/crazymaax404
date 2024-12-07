@@ -32,7 +32,7 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C741%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C741%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
 
@@ -41,6 +41,8 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
+ > 
+> 🏆 71 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,16 +77,16 @@ Sunday                   7 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 15 mins       ██████████████████░░░░░░░   70.66 % 
-JavaScript               39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               1 hr 28 mins        ██████████████████░░░░░░░   71.28 % 
+JavaScript               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+JSON                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -99,7 +101,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2024 01:37:32 UTC
+ Last Updated on 07/12/2024 01:36:36 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
