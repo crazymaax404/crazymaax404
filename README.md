@@ -32,9 +32,9 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C744%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C745%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129.8%20thousand%20lines%20of%20code-blue)
 
@@ -77,16 +77,16 @@ Sunday                   7 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               44 mins             ████████████░░░░░░░░░░░░░   47.04 % 
-JavaScript               27 mins             ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-Bash                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+TypeScript               1 hr 47 mins        ███████████████░░░░░░░░░░   59.21 % 
+Bash                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+JavaScript               28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 🔥 Editors: 
-VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,7 +101,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2024 01:38:05 UTC
+ Last Updated on 13/12/2024 01:39:26 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
