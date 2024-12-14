@@ -32,7 +32,7 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C745%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C745%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,16 +77,16 @@ Sunday                   7 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 47 mins        ███████████████░░░░░░░░░░   59.21 % 
-Bash                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-JavaScript               28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+TypeScript               1 hr 58 mins        ███████████████░░░░░░░░░░   61.08 % 
+Bash                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+JavaScript               30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 2 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,7 +101,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2024 01:39:26 UTC
+ Last Updated on 14/12/2024 01:27:34 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
