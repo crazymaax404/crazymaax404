@@ -77,16 +77,13 @@ Sunday                   7 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 12 mins        ███████████████████████░░   91.92 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 18 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 18 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,7 +98,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2024 01:23:05 UTC
+ Last Updated on 28/12/2024 01:21:28 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
