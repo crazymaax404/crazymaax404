@@ -42,7 +42,7 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 81 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,7 +98,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2024 01:22:37 UTC
+ Last Updated on 01/01/2025 01:37:20 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
