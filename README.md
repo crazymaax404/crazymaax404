@@ -34,7 +34,7 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C797%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-145.1%20thousand%20lines%20of%20code-blue)
 
@@ -102,7 +102,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2025 01:26:30 UTC
+ Last Updated on 10/02/2025 01:23:30 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
