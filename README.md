@@ -42,6 +42,8 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 28 Public Repositories 
@@ -100,7 +102,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/03/2025 01:37:05 UTC
+ Last Updated on 03/03/2025 01:27:35 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
