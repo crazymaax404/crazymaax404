@@ -32,7 +32,7 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C004%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C007%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,7 +42,7 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 > 📦 2.8 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 35 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,18 +77,17 @@ Sunday                   9 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               7 hrs 54 mins       ██████████████░░░░░░░░░░░   54.77 % 
-YAML                     3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+TypeScript               7 hrs 45 mins       ██████████████░░░░░░░░░░░   54.29 % 
+YAML                     3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 16 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 16 mins      █████████████████████████   98.92 % 
-Windows                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Mac                      14 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,7 +102,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/06/2025 01:51:42 UTC
+ Last Updated on 10/06/2025 01:47:55 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
