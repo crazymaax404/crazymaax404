@@ -32,7 +32,7 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C157%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C161%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,8 +41,6 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 **🐱 My GitHub Data** 
 
 > 📦 8.8 MB Used in GitHub's Storage 
- > 
-> 🏆 110 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,17 +75,17 @@ Sunday                   14 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               11 hrs 8 mins       ████████████████████░░░░░   80.83 % 
-Bash                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-JavaScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-XML                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+TypeScript               12 hrs 58 mins      ████████████████████░░░░░   78.98 % 
+JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Bash                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Other                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔥 Editors: 
-Cursor                   13 hrs 47 mins      █████████████████████████   100.00 % 
+Cursor                   16 hrs 26 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,7 +101,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2025 01:26:37 UTC
+ Last Updated on 13/09/2025 01:23:13 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
