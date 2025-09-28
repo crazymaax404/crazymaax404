@@ -32,7 +32,7 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C198%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C199%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,46 +50,6 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                69 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-🌆 Daytime                172 commits         ██████████░░░░░░░░░░░░░░░   40.95 % 
-🌃 Evening                91 commits          █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-🌙 Night                  88 commits          █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   79 commits          █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-Tuesday                  94 commits          ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-Wednesday                78 commits          █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Thursday                 40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Friday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Saturday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Sunday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               8 hrs 21 mins       ███████████████░░░░░░░░░░   61.44 % 
-JavaScript               2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Bash                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Docker                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-
-🔥 Editors: 
-Cursor                   13 hrs 36 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      13 hrs 36 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -103,7 +63,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2025 01:25:43 UTC
+ Last Updated on 28/09/2025 01:44:45 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
