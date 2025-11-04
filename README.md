@@ -32,7 +32,7 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C239%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C239%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -94,17 +94,17 @@ Windows                  50 mins             ███░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               15 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-ShaderLab                3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+JavaScript               15 repos            ████████████░░░░░░░░░░░░░   48.39 % 
+TypeScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+ShaderLab                3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Elixir                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
 
 
- Last Updated on 03/11/2025 01:47:25 UTC
+ Last Updated on 04/11/2025 01:43:43 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
