@@ -77,14 +77,13 @@ Sunday                   25 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      8 mins              ██████████████░░░░░░░░░░░   54.43 % 
-Objective-C              6 mins              ███████████░░░░░░░░░░░░░░   45.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,7 +99,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2025 01:52:30 UTC
+ Last Updated on 31/12/2025 01:53:54 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
