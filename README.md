@@ -32,9 +32,11 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C365%20hrs%2017%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-609.98%20thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-609.98%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -48,6 +50,42 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                87 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+🌆 Daytime                191 commits         ██████████░░░░░░░░░░░░░░░   39.06 % 
+🌃 Evening                112 commits         ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+🌙 Night                  99 commits          █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   89 commits          █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Tuesday                  107 commits         █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Wednesday                84 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Thursday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Friday                   66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Saturday                 69 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Sunday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -61,7 +99,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 02:03:58 UTC
+ Last Updated on 06/01/2026 01:54:58 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
