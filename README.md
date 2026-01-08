@@ -32,7 +32,7 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C365%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C366%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -77,13 +77,17 @@ Sunday                   25 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     4 mins              █████████░░░░░░░░░░░░░░░░   34.64 % 
+TypeScript               4 mins              ████████░░░░░░░░░░░░░░░░░   33.13 % 
+JavaScript               3 mins              ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -99,7 +103,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2026 01:54:13 UTC
+ Last Updated on 08/01/2026 01:54:22 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
