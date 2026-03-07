@@ -32,7 +32,7 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C431%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C431%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -77,17 +77,16 @@ Sunday                   36 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               6 hrs 4 mins        ███████████████████░░░░░░   74.90 % 
-JavaScript               1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               5 hrs 29 mins       ███████████████████████░░   93.05 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 6 mins        █████████████████████████   100.00 % 
+Cursor                   5 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,7 +102,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2026 02:13:57 UTC
+ Last Updated on 07/03/2026 02:07:20 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
