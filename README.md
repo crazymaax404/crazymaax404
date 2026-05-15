@@ -32,8 +32,6 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C546%20hrs%2059%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-625.77%20thousand%20lines%20of%20code-blue?style=flat)
@@ -50,47 +48,6 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                119 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-🌆 Daytime                222 commits         █████████░░░░░░░░░░░░░░░░   37.44 % 
-🌃 Evening                131 commits         ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-🌙 Night                  121 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   105 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Tuesday                  129 commits         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-Wednesday                88 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Thursday                 74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Friday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Saturday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Sunday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               4 hrs 47 mins       ████████████░░░░░░░░░░░░░   47.13 % 
-Markdown                 2 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-Bash                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-
-🔥 Editors: 
-Cursor                   9 hrs 59 mins       █████████████████████████   98.44 % 
-Antigravity              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-
-💻 Operating System: 
-Mac                      10 hrs 9 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -104,7 +61,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 03:39:28 UTC
+ Last Updated on 15/05/2026 03:40:57 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
