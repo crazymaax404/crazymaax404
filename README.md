@@ -50,6 +50,42 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                119 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+🌆 Daytime                223 commits         █████████░░░░░░░░░░░░░░░░   37.54 % 
+🌃 Evening                131 commits         ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+🌙 Night                  121 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   105 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Tuesday                  129 commits         █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Wednesday                89 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Thursday                 74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Friday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Saturday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Sunday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -63,7 +99,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 04:09:14 UTC
+ Last Updated on 08/06/2026 04:13:01 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
