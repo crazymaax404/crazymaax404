@@ -32,6 +32,8 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 ### My Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C683%20hrs%2014%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-631.66%20thousand%20lines%20of%20code-blue?style=flat)
@@ -75,19 +77,19 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               12 hrs 6 mins       ███████████████░░░░░░░░░░   61.51 % 
-Markdown                 3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-JSON                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-SCSS                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+TypeScript               10 hrs 17 mins      ███████████████░░░░░░░░░░   60.10 % 
+Markdown                 2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+JSON                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+SCSS                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🔥 Editors: 
-Cursor                   10 hrs 39 mins      ██████████████░░░░░░░░░░░   54.15 % 
-Claude Code              8 hrs 57 mins       ███████████░░░░░░░░░░░░░░   45.53 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Claude Code              8 hrs 43 mins       █████████████░░░░░░░░░░░░   50.99 % 
+Cursor                   8 hrs 19 mins       ████████████░░░░░░░░░░░░░   48.64 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Mac                      19 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,7 +105,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 03:38:35 UTC
+ Last Updated on 25/07/2026 03:33:56 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
