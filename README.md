@@ -77,19 +77,19 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               10 hrs 17 mins      ███████████████░░░░░░░░░░   60.10 % 
-Markdown                 2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-JSON                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-SCSS                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+TypeScript               11 hrs 19 mins      █████████████████░░░░░░░░   66.49 % 
+Markdown                 2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+JSON                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 43 mins       █████████████░░░░░░░░░░░░   50.99 % 
-Cursor                   8 hrs 19 mins       ████████████░░░░░░░░░░░░░   48.64 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Cursor                   8 hrs 57 mins       █████████████░░░░░░░░░░░░   52.53 % 
+Claude Code              8 hrs 1 min         ████████████░░░░░░░░░░░░░   47.11 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Mac                      17 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      17 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,7 +105,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 03:33:56 UTC
+ Last Updated on 26/07/2026 03:48:56 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
