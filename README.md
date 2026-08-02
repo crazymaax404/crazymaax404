@@ -32,9 +32,9 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C651%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C654%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -79,41 +79,41 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               7 hrs 59 mins       ██████████████░░░░░░░░░░░   56.10 % 
-Markdown                 3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+TypeScript               8 hrs 23 mins       █████████████░░░░░░░░░░░░   53.65 % 
+Markdown                 3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Other                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Bash                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🔥 Editors: 
-Cursor                   10 hrs 50 mins      ███████████████████░░░░░░   76.09 % 
-Claude Code              3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+Cursor                   11 hrs 29 mins      ██████████████████░░░░░░░   73.40 % 
+Claude Code              4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
 
 💻 Operating System: 
-Mac                      14 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 21 mins (79.64%)
+⏱ AI Coding Time: 11 hrs 42 mins (74.84%)
 
-✍️ 17,794 lines written by AI, 494 lines written by hand (97.3% AI-written)
+✍️ 15,372 lines written by AI, 609 lines written by hand (96.19% AI-written)
 
-🔤 38,512,013 Input Tokens, 277,072 Output Tokens
+🔤 54,573,364 Input Tokens, 246,360 Output Tokens
 
-💵 $110.16 Estimated AI Cost This Week
+💵 $162.22 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 161 AI Prompts
+🧠 53 AI Sessions, 191 AI Prompts
 
-Composer                 4,390 lines         ██████████████░░░░░░░░░░░   56.92 % 
-Sonnet                   3,323 lines         ███████████░░░░░░░░░░░░░░   43.08 % 
+Sonnet                   3,573 lines         ███████████████████░░░░░░   77.12 % 
+Composer                 1,060 lines         ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.3% of written lines came from AI
-📄 Detailed Prompter — average 1,138 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.09% of changed lines were hand-edited
+🤖 AI-Driven — 96.19% of written lines came from AI
+📄 Detailed Prompter — average 1,176 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 5.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -129,7 +129,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 04:20:40 UTC
+ Last Updated on 02/08/2026 04:16:05 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
