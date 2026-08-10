@@ -32,13 +32,13 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C664%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C664%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-646.59%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-647.45%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -55,21 +55,21 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                159 commits         ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-🌆 Daytime                264 commits         ██████████░░░░░░░░░░░░░░░   38.37 % 
-🌃 Evening                144 commits         █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-🌙 Night                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+🌞 Morning                164 commits         ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+🌆 Daytime                267 commits         ██████████░░░░░░░░░░░░░░░   38.25 % 
+🌃 Evening                146 commits         █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+🌙 Night                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Tuesday                  136 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Wednesday                112 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Thursday                 113 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Friday                   84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Saturday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Sunday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Monday                   123 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Tuesday                  136 commits         █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Wednesday                113 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Thursday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Friday                   84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Saturday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Sunday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 ```
 
 
@@ -79,44 +79,44 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               7 hrs 37 mins       ████████████████░░░░░░░░░   65.26 % 
-Markdown                 2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Groovy                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+TypeScript               7 hrs 46 mins       ████████████████░░░░░░░░░   64.58 % 
+Markdown                 2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Groovy                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 54 mins       ███████████████████░░░░░░   76.22 % 
-Claude Code              2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+Cursor                   8 hrs 56 mins       ███████████████████░░░░░░   74.22 % 
+Claude Code              3 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
 
 💻 Operating System: 
-Mac                      10 hrs 53 mins      ███████████████████████░░   93.22 % 
-Windows                  47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Mac                      10 hrs 53 mins      ███████████████████████░░   90.46 % 
+Windows                  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 49 mins (75.52%)
+⏱ AI Coding Time: 9 hrs 10 mins (76.24%)
 
-✍️ 3,914 lines written by AI, 366 lines written by hand (91.45% AI-written)
+✍️ 6,874 lines written by AI, 366 lines written by hand (94.94% AI-written)
 
-🔤 40,674,432 Input Tokens, 185,500 Output Tokens
+🔤 43,892,257 Input Tokens, 218,876 Output Tokens
 
-💵 $174.31 Estimated AI Cost This Week
+💵 $176.08 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 125 AI Prompts
+🧠 30 AI Sessions, 128 AI Prompts
 
-Sonnet                   793 lines           ███████████░░░░░░░░░░░░░░   45.73 % 
-GPT                      600 lines           █████████░░░░░░░░░░░░░░░░   34.60 % 
-Grok                     341 lines           █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   793 lines           ███████████░░░░░░░░░░░░░░   44.95 % 
+GPT                      600 lines           █████████░░░░░░░░░░░░░░░░   34.01 % 
+Grok                     341 lines           █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Composer                 30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.45% of written lines came from AI
-📄 Detailed Prompter — average 1,204 characters per prompt
+🤖 AI-Driven — 94.94% of written lines came from AI
+📄 Detailed Prompter — average 1,176 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 17.47% of changed lines were hand-edited
+🚀 High AI Trust — 11.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -132,7 +132,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 03:09:52 UTC
+ Last Updated on 10/08/2026 03:15:41 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
