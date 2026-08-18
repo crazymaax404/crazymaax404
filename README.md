@@ -38,7 +38,7 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-594.39%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-693.89%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -55,21 +55,21 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                191 commits         ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-🌆 Daytime                290 commits         ██████████░░░░░░░░░░░░░░░   38.31 % 
-🌃 Evening                157 commits         █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-🌙 Night                  119 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+🌞 Morning                202 commits         ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+🌆 Daytime                304 commits         ██████████░░░░░░░░░░░░░░░   38.53 % 
+🌃 Evening                162 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+🌙 Night                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   142 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Tuesday                  149 commits         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Wednesday                110 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Thursday                 146 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Friday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Saturday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Sunday                   43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Monday                   151 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Tuesday                  154 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Wednesday                113 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Thursday                 149 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Friday                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Saturday                 79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Sunday                   44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 ```
 
 
@@ -79,47 +79,47 @@ Sunday                   43 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               18 hrs 3 mins       ██████████████░░░░░░░░░░░   55.70 % 
-Markdown                 5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-JSON                     2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Other                    1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-JavaScript               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+TypeScript               18 hrs 3 mins       ██████████████░░░░░░░░░░░   56.51 % 
+Markdown                 5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+JSON                     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Other                    1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+JavaScript               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🔥 Editors: 
-Cursor                   18 hrs 59 mins      ███████████████░░░░░░░░░░   58.59 % 
-Agent                    7 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Claude Code              5 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Codex Vscode             24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Cursor                   18 hrs 35 mins      ███████████████░░░░░░░░░░   58.20 % 
+Agent                    7 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Claude Code              5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Codex Vscode             24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      32 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 42 mins (88.56%)
+⏱ AI Coding Time: 28 hrs 14 mins (88.42%)
 
-✍️ 25,491 lines written by AI, 5,747 lines written by hand (81.6% AI-written)
+✍️ 25,466 lines written by AI, 5,747 lines written by hand (81.59% AI-written)
 
-🔤 16,755,874 Input Tokens, 1,759,241 Output Tokens
+🔤 15,782,443 Input Tokens, 1,746,558 Output Tokens
 
-💵 $220.24 Estimated AI Cost This Week
+💵 $218.25 Estimated AI Cost This Week
 
-🧠 111 AI Sessions, 787 AI Prompts
+🧠 107 AI Sessions, 778 AI Prompts
 
-Grok                     16,933 lines        ████████████████░░░░░░░░░   62.81 % 
-Sonnet                   6,039 lines         ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-Composer                 3,953 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Grok                     16,933 lines        ████████████████░░░░░░░░░   62.85 % 
+Sonnet                   6,039 lines         ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Composer                 3,937 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 GPT                      35 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.6% of written lines came from AI
-📚 Verbose Prompter — average 6,788 characters per prompt
+🤖 AI-Driven — 81.59% of written lines came from AI
+📚 Verbose Prompter — average 6,841 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 22.19% of changed lines were hand-edited
+🚀 High AI Trust — 22.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -135,7 +135,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 02:55:00 UTC
+ Last Updated on 18/08/2026 02:52:30 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
