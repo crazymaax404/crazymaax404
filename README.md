@@ -79,43 +79,43 @@ Sunday                   44 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               8 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   35.66 % 
-PHP                      5 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-JSON                     3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Other                    1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Markdown                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+TypeScript               6 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   34.81 % 
+PHP                      4 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+JSON                     3 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Other                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Markdown                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 
 🔥 Editors: 
-Cursor                   14 hrs 25 mins      ████████████████░░░░░░░░░   62.50 % 
-Agent                    5 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-Claude Code              2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Cursor                   12 hrs 10 mins      ███████████████░░░░░░░░░░   61.27 % 
+Agent                    5 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+Claude Code              2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
 
 💻 Operating System: 
-Mac                      23 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      19 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 8 mins (82.94%)
+⏱ AI Coding Time: 16 hrs 23 mins (82.49%)
 
-✍️ 13,507 lines written by AI, 2,264 lines written by hand (85.64% AI-written)
+✍️ 12,450 lines written by AI, 1,672 lines written by hand (88.16% AI-written)
 
-🔤 2,836,982 Input Tokens, 1,412,725 Output Tokens
+🔤 2,520,893 Input Tokens, 1,204,707 Output Tokens
 
-💵 $39.33 Estimated AI Cost This Week
+💵 $32.65 Estimated AI Cost This Week
 
-🧠 79 AI Sessions, 523 AI Prompts
+🧠 69 AI Sessions, 435 AI Prompts
 
-Grok                     13,647 lines        ████████████████████████░   97.35 % 
-Sonnet                   371 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Grok                     12,694 lines        █████████████████████████   98.17 % 
+Sonnet                   237 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.64% of written lines came from AI
-📚 Verbose Prompter — average 9,298 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 22.91% of changed lines were hand-edited
+🤖 AI-Driven — 88.16% of written lines came from AI
+📚 Verbose Prompter — average 9,781 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 21.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -131,7 +131,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 05:05:28 UTC
+ Last Updated on 07/09/2026 04:54:25 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
