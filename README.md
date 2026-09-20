@@ -32,9 +32,9 @@ Here on GitHub, you'll find a bit of everything: code projects, games, and some 
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C754%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C755%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-210%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-211%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -79,43 +79,44 @@ Sunday                   44 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               4 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-TypeScript               3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-CSS                      3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-PHP                      2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Markdown                 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+JavaScript               4 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.37 % 
+TypeScript               3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+Markdown                 1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+PHP                      1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 4 mins        █████████████░░░░░░░░░░░░   51.96 % 
-Cursor                   4 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-Agent                    3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Claude Code              7 hrs 52 mins       ███████████████░░░░░░░░░░   61.85 % 
+Agent                    2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Cursor                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Codex Vscode             50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 
 💻 Operating System: 
-Mac                      17 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 57 mins (85.68%)
+⏱ AI Coding Time: 12 hrs 22 mins (97.09%)
 
-✍️ 1,363 lines written by AI, 124 lines written by hand (91.66% AI-written)
+✍️ 1,455 lines written by AI, 24 lines written by hand (98.38% AI-written)
 
-🔤 5,535,742 Input Tokens, 961,807 Output Tokens
+🔤 3,080,379 Input Tokens, 742,742 Output Tokens
 
-💵 $86.92 Estimated AI Cost This Week
+💵 $70.36 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 266 AI Prompts
+🧠 27 AI Sessions, 190 AI Prompts
 
-Sonnet                   1,569 lines         █████████████████████████   100.00 % 
+Sonnet                   1,439 lines         ██████████████████████░░░   86.95 % 
+GPT                      216 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.66% of written lines came from AI
-📚 Verbose Prompter — average 6,927 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 96.99% of changed lines were hand-edited
+🤖 AI-Driven — 98.38% of written lines came from AI
+📚 Verbose Prompter — average 6,593 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 29.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -131,7 +132,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 06:02:56 UTC
+ Last Updated on 20/09/2026 06:19:21 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">&copy; 2022-present <a href="https://github.com/crazymaax404/" target="_blank">CrazyMaax</a>
